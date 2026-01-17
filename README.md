@@ -1,6 +1,6 @@
 # Programming Technique I
 # Introduction
-👨‍💼Lecturer : Dr Cik Suhaimi bin Yusof
+👨‍💼Lecturer : Dr Cik Suhaimi bin Yusof <br>
 👨🏻‍🎓Section : 09
 
 # 📝Summary
